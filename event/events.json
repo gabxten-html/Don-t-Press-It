@@ -1,0 +1,22 @@
+[
+  {
+    "id": "shrink",
+    "text": "Le bouton a peur.",
+    "effect": "shrinkButton"
+  },
+  {
+    "id": "runaway",
+    "text": "Il essaie de s'échapper.",
+    "effect": "moveButton"
+  },
+  {
+    "id": "judgement",
+    "text": "Je suis déçu.",
+    "effect": "changeText"
+  },
+  {
+    "id": "duplicate",
+    "text": "Oops.",
+    "effect": "duplicateButton"
+  }
+]
