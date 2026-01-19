@@ -1,0 +1,21 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #111;
+  color: white;
+  height: 100vh;
+  overflow: hidden;
+}
+
+#button {
+  font-size: 2rem;
+  padding: 20px 40px;
+  background: red;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
